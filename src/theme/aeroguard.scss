@@ -1,0 +1,17 @@
+/* AeroGuard theme: navy background, cyan/blue accents (same palette as the web app emails). */
+:root {
+  --ion-background-color: #0a0e1a;
+  --ion-text-color: #e2e8f0;
+  --ion-color-primary: #0072ff;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-toolbar-background: #111827;
+  --ion-toolbar-color: #00c2ff;
+  --ion-item-background: #111827;
+  --ion-card-background: #111827;
+}
+ion-card { border: 1px solid #1f2a44; }
+.threat-Gray   { --background: #64748b; }
+.threat-Yellow { --background: #eab308; --color: #111; }
+.threat-Orange { --background: #f97316; }
+.threat-Red    { --background: #dc2626; }
+.msg { padding: 8px 16px; color: #00c2ff; }

@@ -1,0 +1,7 @@
+{
+  "name": "aeroguard-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
